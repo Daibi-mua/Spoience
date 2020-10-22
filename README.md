@@ -10,9 +10,9 @@
 >On most Internet social platforms, I use Spoience
 This nickname
 
-- 📖[personal blog](https://spoience.com/)：https://spoience.com/
+- 📖[Personal Blog](https://spoience.com/)：https://spoience.com/
 - 🍻[NetEasy Music](https://music.163.com/#/user/home?id=124164615) / ~~Weibo (Logged out)~~/Github/ Zhihu / CoolApk：Spoience
 - 🍀WeChat Subscription Account：~~Spoience(Logged out)~~
 
 ### 🍼Github Status
-![](https://github-readme-stats.vercel.app/api?username=Spoience&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=fa9191)
+![](https://github-readme-stats.vercel.app/api?username=Spoience&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=28df99)
