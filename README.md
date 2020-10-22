@@ -15,4 +15,4 @@ This nickname
 - 🍀WeChat Subscription Account：~~Spoience(Logged out)~~
 
 ### 🍼Github Status
-![](https://github-readme-stats.vercel.app/api?username=Spoience&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=28df99)
+![](https://github-readme-stats.vercel.app/api?username=Spoience&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
